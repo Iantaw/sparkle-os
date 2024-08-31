@@ -1,2 +1,2 @@
 # 🫧Sparkle OS✨
-A simplistic Quick OS.
+A Basic OS.
